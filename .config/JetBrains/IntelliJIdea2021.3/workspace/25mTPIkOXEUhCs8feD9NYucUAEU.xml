@@ -1,0 +1,735 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DK-Access-Management-Platform" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="testdb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="testdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="testdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 14 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="testdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 14 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="buildings: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="testdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 14 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="users: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="testdb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Server Objects (host: root &lt;unnamed&gt;)" type="d9a67e58:DvTreeLayoutLayer$AuxiliaryGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserDetailsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9552">
+              <caret line="445" selection-start-line="445" selection-end-line="445" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/UserDetailsImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1270#1271#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1992">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://809fd634-fbe3-4c24-a1a3-274423607d79/database/testdb/schema/public/table/users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1647659624609" presentationMode="TABLE" projectRestartId="56f3e229-bc25-469f-bad9-3e57e161eb32" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+                <sort text="password DESC" />
+                <sort text="password" />
+                <sort text="recent_action_description DESC" />
+                <sort text="recent_action_description" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3360">
+              <caret line="162" column="68" selection-start-line="162" selection-start-column="68" selection-end-line="162" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2712">
+              <caret line="142" selection-start-line="142" selection-end-line="142" />
+              <folding>
+                <element signature="e#2472#2473#0" expanded="true" />
+                <element signature="e#2528#2529#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="12" lastUsed="1647659624306" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="5" lastUsed="1647659625293" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1647573987869" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="25" lastUsed="1647659625640" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1646131239614" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="2" lastUsed="1647575079472" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="1" lastUsed="1646321077887" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="6" lastUsed="1647573265714" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/accessplatform/controller/UserController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/accessplatform/model/User.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserDetailsServiceImpl.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="accessplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="validate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="fragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DK-Access-Management-Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DK-Access-Management-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="DK-Access-Management-Platform-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14976000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38898602" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info id="Persistence" order="8" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3310519" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.3310519" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3035201" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3301006" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.33012134" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="18" />
+      <window_info anchor="bottom" id="Java Enterprise" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="20" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.27793944" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.5690559" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+      <window_info anchor="right" id="documentation.v2" order="4" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="5" show_stripe_button="false" />
+    </layout>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Database</value>
+      <value>Find</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5050" y="805" key="#Project_Structure" timestamp="1646300300289">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5050" y="805" key="#Project_Structure/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1646300300289" />
+    <state x="5046" y="925" width="800" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646321077815">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5046" y="925" width="800" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1646321077815" />
+    <state x="5136" y="799" key="CommitChangelistDialog2" timestamp="1647659872323">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5136" y="799" key="CommitChangelistDialog2/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647659872323" />
+    <state width="557" height="356" key="DebuggerActiveHint" timestamp="1647579025203">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="557" height="356" key="DebuggerActiveHint/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647579025203" />
+    <state x="5231" y="1127" key="FileChooserDialogImpl" timestamp="1646300298131">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5231" y="1127" key="FileChooserDialogImpl/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1646300298131" />
+    <state width="352" height="232" key="Git.Branch.Popup" timestamp="1646131876308">
+      <screen x="3840" y="464" width="3440" height="1440" />
+    </state>
+    <state width="352" height="232" key="Git.Branch.Popup/3840.464.3440.1440/0.0.3840.2160@3840.464.3440.1440" timestamp="1646131876308" />
+    <state width="3398" height="394" key="GridCell.Tab.0.bottom" timestamp="1647604751064">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.0.bottom/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604751064" />
+    <state width="3398" height="394" key="GridCell.Tab.0.center" timestamp="1647604751063">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.0.center/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604751063" />
+    <state width="3398" height="394" key="GridCell.Tab.0.left" timestamp="1647604751063">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.0.left/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604751063" />
+    <state width="3398" height="394" key="GridCell.Tab.0.right" timestamp="1647604751064">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.0.right/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604751064" />
+    <state width="3398" height="394" key="GridCell.Tab.1.bottom" timestamp="1647604793548">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.1.bottom/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604793548" />
+    <state width="3398" height="394" key="GridCell.Tab.1.center" timestamp="1647604793547">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.1.center/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604793547" />
+    <state width="3398" height="394" key="GridCell.Tab.1.left" timestamp="1647604793547">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.1.left/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604793547" />
+    <state width="3398" height="394" key="GridCell.Tab.1.right" timestamp="1647604793548">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.1.right/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604793548" />
+    <state width="3398" height="394" key="GridCell.Tab.2.bottom" timestamp="1647604750894">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.2.bottom/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604750894" />
+    <state width="3398" height="394" key="GridCell.Tab.2.center" timestamp="1647604750894">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.2.center/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604750894" />
+    <state width="3398" height="394" key="GridCell.Tab.2.left" timestamp="1647604750894">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.2.left/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604750894" />
+    <state width="3398" height="394" key="GridCell.Tab.2.right" timestamp="1647604750894">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="3398" height="394" key="GridCell.Tab.2.right/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647604750894" />
+    <state x="4538" y="763" key="SettingsEditor" timestamp="1647580502090">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5121" y="991" key="SettingsEditor/3840.464.3440.1440/0.0.3840.2160@3840.464.3440.1440" timestamp="1646132187891" />
+    <state x="4538" y="763" key="SettingsEditor/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647580502090" />
+    <state x="5162" y="964" key="Vcs.Push.Dialog.v2" timestamp="1647659886461">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5162" y="964" key="Vcs.Push.Dialog.v2/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647659886461" />
+    <state x="5224" y="582" key="run.anything.popup" timestamp="1647659744104">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5224" y="582" key="run.anything.popup/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647659744104" />
+    <state x="5223" y="816" width="672" height="684" key="search.everywhere.popup" timestamp="1647579474303">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state x="5223" y="816" width="672" height="684" key="search.everywhere.popup/3840.468.3440.1440/0.0.3840.2160@3840.468.3440.1440" timestamp="1647579474303" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/809fd634-fbe3-4c24-a1a3-274423607d79/console.sql" />
+    <entry file="das://809fd634-fbe3-4c24-a1a3-274423607d79/database/testdb/schema/public/table/buildings">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1646321238984" presentationMode="TABLE" projectRestartId="dc9da922-c1cd-442c-a34a-dcb24d011c8e" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/AccessPlatformApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/SetupDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-beanstalk.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="n#parent#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://809fd634-fbe3-4c24-a1a3-274423607d79/database/testdb/schema/public/table/users_roles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1647574091893" presentationMode="TABLE" projectRestartId="9f6f4316-440c-49b9-9401-4aba3aa1fbed" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" enabled="false" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.3.6/spring-tx-5.3.6.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.3.6/spring-tx-5.3.6.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="143" column="21" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/validate/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9552">
+          <caret line="445" selection-start-line="445" selection-end-line="445" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://809fd634-fbe3-4c24-a1a3-274423607d79/database/testdb/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1647659624609" presentationMode="TABLE" projectRestartId="56f3e229-bc25-469f-bad9-3e57e161eb32" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="password DESC" />
+            <sort text="password" />
+            <sort text="recent_action_description DESC" />
+            <sort text="recent_action_description" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="162" column="68" selection-start-line="162" selection-start-column="68" selection-end-line="162" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/UserDetailsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/accessplatform/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2712">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+          <folding>
+            <element signature="e#2472#2473#0" expanded="true" />
+            <element signature="e#2528#2529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

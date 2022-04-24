@@ -1,0 +1,148 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">cmV0cmlldmVVc2Vy</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1647659786908">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users" timestamp="1647659628039">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/resources/templates/fragments/sidebar.html" timestamp="1647605177979">
+        <mark key="[" line="82" column="39" />
+        <mark key="]" line="82" column="39" />
+        <mark key="." line="82" column="39" />
+      </file>
+      <file name="/console" timestamp="1646321077945">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/model/User.java" timestamp="1647659687677">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="106" column="49" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/controller/UserController.java" timestamp="1647578803862">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
+      <file name="/" timestamp="1647573282928">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1647659628040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GridCellEditorTextField" timestamp="1647575598498">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/buildings" timestamp="1646321239034">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/MethodProxy.java" timestamp="1647577107649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/service/UserService.java" timestamp="1647604703488">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="36" column="36" />
+      </file>
+      <file name="/users_roles [testdb@localhost]" timestamp="1647574091902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" timestamp="1647578392450">
+        <mark key="'" line="74" column="34" />
+      </file>
+      <file name="/buildings [testdb@localhost]" timestamp="1646321239018">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [testdb@localhost]" timestamp="1647659628035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/service/UserDetailsServiceImpl.java" timestamp="1647577521007">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="/users_roles" timestamp="1647574091932">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1647605079636">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1647604872168">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <jump line="23" column="2" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/SetupDataLoader.java" />
+      <jump line="97" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" />
+      <jump line="132" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" />
+      <jump line="63" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" />
+      <jump line="64" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" />
+      <jump line="74" column="34" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.6/spring-security-core-5.4.6.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class" />
+      <jump line="39" column="13" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/service/UserService.java" />
+      <jump line="45" column="11" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/service/UserService.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/IdeaProjects/DK-Access-Management-Platform/src/main/java/com/accessplatform/service/UserService.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">dXNlclJlcG9zaXRvcnk=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZXJyb3JUZXh0KCkgewo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZXJyb3JUZXh0KCkgewo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgYm9vbGVhbiB1cGRhdGVQYXNzd29yZDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xvbmcgb3JpZ2luYWxVc2VySWQgPSBMb25nLnBhcnNlTG9uZyhpZCk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Iw==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">cmV0cmlldmVVc2Vy</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">cmV0cmlldmVVc2Vy</last-search>
+      <last-pattern encoding="base64">cmV0cmlldmVVc2Vy</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

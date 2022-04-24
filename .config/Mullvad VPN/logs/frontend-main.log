@@ -1,0 +1,10 @@
+[2022-04-23 19:14:30.615][verbose] Chromium sandbox is enabled
+[2022-04-23 19:14:30.617][info] Running version 2022.1
+[2022-04-23 19:14:30.676][info] Detected locale: en-GB
+[2022-04-23 19:14:30.690][info] Connected to the daemon
+[2022-04-23 19:14:30.794][info] Skip autoconnect because GUI setting is disabled
+[2022-04-23 19:14:31.046][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/max/.config/autostart/mullvad-vpn.desktop'
+[2022-04-23 19:23:32.573][info] Quit initiated
+[2022-04-23 19:23:32.576][info] Disconnected the tunnel
+[2022-04-23 19:23:32.577][info] Unsubscribed from the daemon events
+[2022-04-23 19:23:32.578][verbose] GRPC Channel connectivity state changed to 4

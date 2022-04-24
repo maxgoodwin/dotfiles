@@ -1,0 +1,208 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="4" l="1647578675182" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1647659786247" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1646299948193" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="1" l="1646131436635" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="10" l="1647605069971" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="1" l="1647579777765" />
+    </e>
+    <e n="Console.TableResult.Reload">
+      <i c="15" l="1647604963664" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="1" l="1647575626401" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1646321035896" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="2" l="1646537581250" />
+    </e>
+    <e n="Debug">
+      <i c="11" l="1647605077511" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="98" l="1647659854402" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="8" l="1647604670321" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="14" l="1647659846272" />
+    </e>
+    <e n="EditorDown">
+      <i c="6" l="1647579341843" />
+    </e>
+    <e n="EditorEnter">
+      <i c="13" l="1647604688128" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1647576620598" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1646299789745" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1647659912131" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1647577415822" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1647579264692" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1646300621283" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="4" l="1647578967443" />
+    </e>
+    <e n="Maven.Reimport">
+      <i c="1" l="1646131526596" />
+    </e>
+    <e n="ProjectView.FileNesting">
+      <i c="1" l="1646316127649" />
+    </e>
+    <e n="ProjectView.FlattenPackages">
+      <i c="2" l="1646316192704" />
+    </e>
+    <e n="ProjectView.ShowVisibilityIcons">
+      <i c="2" l="1646316179326" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1647580520878" />
+    </e>
+    <e n="Resume">
+      <i c="159" l="1647604908584" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1647576899565" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1647659742802" />
+    </e>
+    <e n="RunToCursor">
+      <i c="1" l="1647578726636" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1647659743032" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1647579472653" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1647579785571" />
+    </e>
+    <e n="ShowSettings">
+      <i c="16" l="1647579672377" />
+    </e>
+    <e n="StepOut">
+      <i c="3" l="1647577973101" />
+    </e>
+    <e n="StepOver">
+      <i c="83" l="1647578895171" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1647579206639" />
+    </e>
+    <e n="Switcher">
+      <i c="38" l="1647579761273" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="29" l="1647578975718" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1647659883845" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1646131197055" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" d="1" l="1646300629705" k="1646300629705" />
+    </e>
+    <e n="XDebugger.CopyValue">
+      <i c="2" l="1647576933940" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="1" l="1647604927344" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="2" l="1647579830881" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1646321040040" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
+      <i c="1" l="1647575602223" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1646321148933" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeKeymapAction$1">
+      <i c="1" l="1647579796437" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1647579789742" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1646321190275" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="226" l="1647659818630" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="18" l="1647605165706" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1647659744097" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="2" l="1647579739810" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1647579726893" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1646321136536" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="7" l="1646316193850" />
+    </e>
+    <e n="com.intellij.space.actions.SpaceMainToolBarAction">
+      <i c="2" l="1647579785126" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1646299901964" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1646299914045" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="11" l="1647605134321" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="3" l="1647580491675" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ShortcutConflictsSettings">
+      <i c="1" l="1646321202542" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="8" l="1647579421433" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1646299881049" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.right.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.0.left.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.0.center.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.0.bottom.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.1.left.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.1.center.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.1.right.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.1.bottom.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.2.left.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.2.center.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.2.right.3840.468.3440.1440" width="3398" height="394" />
+    <size key="GridCell.Tab.2.bottom.3840.468.3440.1440" width="3398" height="394" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3842" y="501" width="1716" height="1388" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="627" height="100" key="ShowUsagesActions.dimensionServiceKey" timestamp="1647578970955">
+      <screen x="3840" y="468" width="3440" height="1440" />
+    </state>
+    <state width="627" height="100" key="ShowUsagesActions.dimensionServiceKey/3840.468.3440.1440/0.0.3840.2160" timestamp="1647578970955" />
+  </component>
+</application>
