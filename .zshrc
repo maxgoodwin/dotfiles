@@ -10,6 +10,14 @@ zstyle :compinstall filename '/home/max/.zshrc'
 autoload -Uz compinit promptinit; compinit; promptinit; _comp_options+=(globdots);
 # End of lines added by compinstall
 
+# Run ssh-agent at startup and make sure only 1 process is running
+if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+    ssh-agent -t 1h > "$XDG_RUNTIME_DIR/ssh-agent.env"
+fi
+if [[ ! "$SSH_AUTH_SOCK" ]]; then
+    source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
+fi
+
 # ZSH styling
 autoload -U colors && colors	# Load colors
 PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
@@ -26,8 +34,11 @@ EDITOR='/bin/nvim'
 VISUAL='/bin/nvim'
 export EDITOR VISUAL
 
-# Application launch commands
-alias intellij='intellij-idea-ultimate-edition'
+# File aliases
+alias apps='nvim ~/Documents/applications.txt'
+
+# Location aliases
+alias dkAccess='cd ~/Documents/Work/DigitalKeys/DK-Access-Management-Platform/'
 
 # Commands
 alias xrdbl='xrdb ~/.config/x11/xresources'
@@ -39,7 +50,7 @@ alias dirSize='du -hc --max-depth=1'
 alias cddk='cd ~/IdeaProjects/DK-Access-Management-Platform/'
 
 # Scripts
-alias saout='sh bin/switchAudioOut.sh'
+alias saout='sh ~/bin/switchAudioOut.sh'
 
 # Bindings
 # Shift+Tab to reverse autocomplete selection

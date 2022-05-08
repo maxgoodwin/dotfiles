@@ -1,5 +1,4 @@
 du
-bin
 usb
 Music
 Public
@@ -9,6 +8,7 @@ Pictures
 Documents
 Downloads
 Templates
+workspace
 fontconfig
 IdeaProjects
 .config/BraveSoftware
