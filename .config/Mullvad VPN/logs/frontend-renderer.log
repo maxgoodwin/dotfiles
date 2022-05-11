@@ -1,1 +1,3 @@
-[2022-04-23 19:14:31.125][verbose] Tunnel state: disconnected
+[2022-05-10 18:56:59.919][verbose] Tunnel state: disconnected
+[2022-05-10 18:56:59.956][error] Failed to update the location: No connection established to daemon
+[2022-05-10 18:56:59.956][error] Failed to update the location: No connection established to daemon
