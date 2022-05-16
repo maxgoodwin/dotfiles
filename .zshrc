@@ -54,7 +54,7 @@ alias saout='sh ~/bin/switchAudioOut.sh'
 
 # Bindings
 # Shift+Tab to reverse autocomplete selection
-bindkey -- "${terminfo[kcbt]}" reverse-menu-complete
+bindkey -M menuselect '^[[Z' reverse-menu-complete
 
 # vi mode
 bindkey -v
