@@ -11,12 +11,14 @@ autoload -Uz compinit promptinit; compinit; promptinit; _comp_options+=(globdots
 # End of lines added by compinstall
 
 # Run ssh-agent at startup and make sure only 1 process is running
-if ! pgrep -u "$USER" ssh-agent > /dev/null; then
-    ssh-agent -t 1h > "$XDG_RUNTIME_DIR/ssh-agent.env"
-fi
-if [[ ! "$SSH_AUTH_SOCK" ]]; then
-    source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
-fi
+# if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+    # ssh-agent -t 1h > "$XDG_RUNTIME_DIR/ssh-agent.env"
+# fi
+# if [[ ! "$SSH_AUTH_SOCK" ]]; then
+    # source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
+# fi
+
+eval $(keychain --eval --quiet id_ed25519)
 
 # ZSH styling
 autoload -U colors && colors	# Load colors
