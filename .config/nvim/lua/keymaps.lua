@@ -14,6 +14,10 @@ function imap(shortcut, command)
   map('i', shortcut, command)
 end
 
+-- M = alt
+-- A = alt + shift
+-- C = control
+
 vmap("<C-C>", "\"+y")
 nmap("<C-P>", "\"+P")
 
@@ -24,12 +28,19 @@ nmap("<A-<>", ":BufferMovePrevious<CR>")
 nmap("<A->>", ":BufferMoveNext<CR>")
 nmap("<M-w>", ":BufferClose<CR>")
 
+-- Add split window
+nmap("<M-C-L>", ":FocusSplitRight<CR>")
+nmap("<M-C-H>", ":FocusSplitLeft<CR>")
+nmap("<M-C-K>", ":FocusSplitUp<CR>")
+nmap("<M-C-J>", ":FocusSplitDown<CR>")
+nmap("<M-C-T>", ":FocusToggle<CR>")
+
 -- Split view
-nmap("<C-J>", "<C-W><C-J>")
-nmap("<C-K>", "<C-W><C-K>")
-nmap("<C-L>", "<C-W><C-L>")
-nmap("<C-H>", "<C-W><C-H>")
-nmap("<C-Q>", ":q<CR>")
+nmap("<C-j>", "<C-W><C-J>")
+nmap("<C-k>", "<C-W><C-K>")
+nmap("<C-l>", "<C-W><C-L>")
+nmap("<C-h>", "<C-W><C-H>")
+nmap("<C-q>", ":q<CR>")
 
 -- Telescope
 nmap("<leader>ff", "<cmd>Telescope find_files<cr>")

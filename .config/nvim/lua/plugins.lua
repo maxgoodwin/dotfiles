@@ -27,7 +27,7 @@ return packer.startup(function()
   use 'tpope/vim-commentary'
   use 'tpope/vim-fugitive'
   use 'vimwiki/vimwiki'
-  -- use 'matveyt/neoclip'
+  -- use 'matveyt/neoclip' -- Automatically setup clipboard
 
   use "nvim-lua/popup.nvim" -- An implementation of the Popup API from vim in Neovim
   use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
@@ -96,20 +96,9 @@ return packer.startup(function()
 	}
 
   -- other
-  use 'windwp/nvim-autopairs'
-  use 'lewis6991/gitsigns.nvim'
-
-  -- Nerdtree
-  -- use {
-    -- 'preservim/nerdtree',
-    -- requires = {
-	    -- {'ryanoasis/vim-devicons'},
-	    -- {'Xuyuanp/nerdtree-git-plugin'},
-	    -- {'tiagofumo/vim-nerdtree-syntax-highlight'},
-	    -- {'scrooloose/nerdtree-project-plugin'},
-	    -- {'PhilRunninger/nerdtree-buffer-ops'}
-    	-- }
-    -- }
+  use 'windwp/nvim-autopairs' -- Auto parenthesis closing
+  use 'lewis6991/gitsigns.nvim' -- Git indicators within file
+	use 'beauwilliams/focus.nvim' -- Split screen auto-sizing
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins

@@ -129,6 +129,11 @@ _G.packer_plugins = {
     path = "/home/max/.local/share/nvim/site/pack/packer/start/fd",
     url = "https://github.com/sharkdp/fd"
   },
+  ["focus.nvim"] = {
+    loaded = true,
+    path = "/home/max/.local/share/nvim/site/pack/packer/start/focus.nvim",
+    url = "https://github.com/beauwilliams/focus.nvim"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/friendly-snippets",
