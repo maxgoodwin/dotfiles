@@ -15,6 +15,7 @@ IdeaProjects
 .config/discord
 .config/spotify
 .config/Mullvad VPN
+.keychain
 .npmrc
 .bashrc
 .yarnrc
