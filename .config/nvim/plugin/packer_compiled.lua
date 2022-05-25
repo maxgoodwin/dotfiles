@@ -149,16 +149,6 @@ _G.packer_plugins = {
     path = "/home/max/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
-  nerdtree = {
-    loaded = true,
-    path = "/home/max/.local/share/nvim/site/pack/packer/start/nerdtree",
-    url = "https://github.com/preservim/nerdtree"
-  },
-  ["nerdtree-git-plugin"] = {
-    loaded = true,
-    path = "/home/max/.local/share/nvim/site/pack/packer/start/nerdtree-git-plugin",
-    url = "https://github.com/Xuyuanp/nerdtree-git-plugin"
-  },
   ["nvim-autopairs"] = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
@@ -178,6 +168,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
+  },
+  ["nvim-tree.lua"] = {
+    loaded = true,
+    path = "/home/max/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+    url = "https://github.com/kyazdani42/nvim-tree.lua"
   },
   ["nvim-treesitter"] = {
     loaded = true,
@@ -219,11 +214,6 @@ _G.packer_plugins = {
     path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-commentary",
     url = "https://github.com/tpope/vim-commentary"
   },
-  ["vim-devicons"] = {
-    loaded = true,
-    path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-devicons",
-    url = "https://github.com/ryanoasis/vim-devicons"
-  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-fugitive",
@@ -233,11 +223,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-monokai-pro",
     url = "https://github.com/phanviet/vim-monokai-pro"
-  },
-  ["vim-nerdtree-syntax-highlight"] = {
-    loaded = true,
-    path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-nerdtree-syntax-highlight",
-    url = "https://github.com/tiagofumo/vim-nerdtree-syntax-highlight"
   },
   vimwiki = {
     loaded = true,

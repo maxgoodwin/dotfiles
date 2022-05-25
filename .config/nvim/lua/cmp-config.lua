@@ -1,10 +1,12 @@
 local cmp_status_ok, cmp = pcall(require, "cmp")
 if not cmp_status_ok then
+	print('cmp-config.lua require cmp error: line 3')
   return
 end
 
 local snip_status_ok, luasnip = pcall(require, "luasnip")
 if not snip_status_ok then
+	print('cmp-config.lua require luasnip error: line 9')
   return
 end
 

@@ -22,7 +22,7 @@ packer.init {
 }
 
 -- Install your plugins here
-return require('packer').startup(function()
+return packer.startup(function()
   use "wbthomason/packer.nvim" -- Have packer manage itself
   use 'tpope/vim-commentary'
   use 'tpope/vim-fugitive'
@@ -86,21 +86,30 @@ return require('packer').startup(function()
       }
   }
 
+  -- nvim tree
+  use {
+		'kyazdani42/nvim-tree.lua',
+		requires = {
+			'kyazdani42/nvim-web-devicons'
+		},
+		tag = 'nightly'
+	}
+
   -- other
   use 'windwp/nvim-autopairs'
   use 'lewis6991/gitsigns.nvim'
 
   -- Nerdtree
-  use {
-    'preservim/nerdtree',
-    requires = {
-	    {'ryanoasis/vim-devicons'},
-	    {'Xuyuanp/nerdtree-git-plugin'},
-	    {'tiagofumo/vim-nerdtree-syntax-highlight'},
+  -- use {
+    -- 'preservim/nerdtree',
+    -- requires = {
+	    -- {'ryanoasis/vim-devicons'},
+	    -- {'Xuyuanp/nerdtree-git-plugin'},
+	    -- {'tiagofumo/vim-nerdtree-syntax-highlight'},
 	    -- {'scrooloose/nerdtree-project-plugin'},
 	    -- {'PhilRunninger/nerdtree-buffer-ops'}
-    	}
-    }
+    	-- }
+    -- }
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins

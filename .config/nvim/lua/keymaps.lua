@@ -41,7 +41,7 @@ nmap("<leader>fh", "<cmd>Telescope help_tags<cr>")
 vim.api.nvim_set_keymap('n', "<M-/>", "gcc", { noremap = false, silent = true })
 vim.api.nvim_set_keymap('v', "<M-/>", "gcc", { noremap = false, silent = true })
 
--- NERDTree
-nmap("<C-n>", ":NERDTreeToggle<CR>")
-nmap("<leader>n", ":NERDTreeFocus<CR>")
+-- NvimTree
+nmap("<C-n>", ":NvimTreeToggle<CR>")
+-- nmap("<leader>n", ":NERDTreeFocus<CR>")
 

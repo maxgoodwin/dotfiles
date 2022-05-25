@@ -1,9 +1,10 @@
 local status_ok, gitsigns = pcall(require, "gitsigns")
 if not status_ok then
+	print('gitsigns-config.lua require gitsigns error: line 3')
   return
 end
 
-require('gitsigns').setup {
+gitsigns.setup {
   signs = {
     add = { hl = "GitSignsAdd", text = "▎", numhl = "GitSignsAddNr", linehl = "GitSignsAddLn" },
     change = { hl = "GitSignsChange", text = "▎", numhl = "GitSignsChangeNr", linehl = "GitSignsChangeLn" },
