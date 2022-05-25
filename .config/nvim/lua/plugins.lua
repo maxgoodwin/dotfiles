@@ -33,7 +33,7 @@ return require('packer').startup(function()
   use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
 
   -- Colorschemes
-  use "lunarvim/colorschemes" -- A bunch of colorschemes you can try out
+  use "lunarvim/colorschemes"
   use "lunarvim/darkplus.nvim"
   use "romgrk/doom-one.vim"
   use "phanviet/vim-monokai-pro"
@@ -85,6 +85,10 @@ return require('packer').startup(function()
 	{'kyazdani42/nvim-web-devicons'}
       }
   }
+
+  -- other
+  use 'windwp/nvim-autopairs'
+  use 'lewis6991/gitsigns.nvim'
 
   -- Nerdtree
   use {

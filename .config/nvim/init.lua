@@ -4,4 +4,5 @@ require('config')
 require('cmp-config')
 require('lsp')
 require('colourscheme')
-
+require('autopairs')
+require('gitsigns')
