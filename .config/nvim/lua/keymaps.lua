@@ -27,13 +27,14 @@ nmap("<M-,>", ":BufferPrevious<CR>")
 nmap("<A-<>", ":BufferMovePrevious<CR>")
 nmap("<A->>", ":BufferMoveNext<CR>")
 nmap("<M-w>", ":BufferClose<CR>")
+nmap("<M-W>", ":BufferClose!<CR>")
 
 -- Add split window
 nmap("<M-C-L>", ":FocusSplitRight<CR>")
 nmap("<M-C-H>", ":FocusSplitLeft<CR>")
 nmap("<M-C-K>", ":FocusSplitUp<CR>")
 nmap("<M-C-J>", ":FocusSplitDown<CR>")
-nmap("<M-C-T>", ":FocusToggle<CR>")
+nmap("<M-=>", ":FocusToggle<CR>")
 
 -- Split view
 nmap("<C-j>", "<C-W><C-J>")

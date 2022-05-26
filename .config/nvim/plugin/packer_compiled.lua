@@ -214,6 +214,16 @@ _G.packer_plugins = {
     path = "/home/max/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["toggleterm.nvim"] = {
+    loaded = true,
+    path = "/home/max/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+    url = "https://github.com/akinsho/toggleterm.nvim"
+  },
+  ["tokyonight.nvim"] = {
+    loaded = true,
+    path = "/home/max/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+    url = "https://github.com/folke/tokyonight.nvim"
+  },
   ["vim-commentary"] = {
     loaded = true,
     path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-commentary",
@@ -224,10 +234,10 @@ _G.packer_plugins = {
     path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
   },
-  ["vim-monokai-pro"] = {
+  ["vim-startify"] = {
     loaded = true,
-    path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-monokai-pro",
-    url = "https://github.com/phanviet/vim-monokai-pro"
+    path = "/home/max/.local/share/nvim/site/pack/packer/start/vim-startify",
+    url = "https://github.com/mhinz/vim-startify"
   },
   vimwiki = {
     loaded = true,

@@ -30,29 +30,26 @@ return packer.startup(function()
   -- use 'matveyt/neoclip' -- Automatically setup clipboard
 
   use "nvim-lua/popup.nvim" -- An implementation of the Popup API from vim in Neovim
-  use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
+  use "nvim-lua/plenary.nvim" -- Useful lua functions used by lots of plugins
 
   -- Colorschemes
   use "lunarvim/colorschemes"
   use "lunarvim/darkplus.nvim"
   use "romgrk/doom-one.vim"
-  use "phanviet/vim-monokai-pro"
   use "folke/lsp-colors.nvim"
+	use "folke/tokyonight.nvim"
 
-  -- Treesitter
-  use {
+  use { -- treesitter
     'nvim-treesitter/nvim-treesitter',
     run = ':TSUpdate'
   }
 
-  -- lualine
-  use {
+  use { --lualine
     'nvim-lualine/lualine.nvim',
     requires = { 'kyazdani42/nvim-web-devicons', opt = true }
   }
 
-  -- barbar
-  use {
+  use { --barbar
     'romgrk/barbar.nvim',
     requires = {'kyazdani42/nvim-web-devicons'}
   }
@@ -74,8 +71,7 @@ return packer.startup(function()
   use "neovim/nvim-lspconfig" -- enable LSP
   use "williamboman/nvim-lsp-installer" -- simple to use language server installer
 
-  -- telescope
-  use {
+  use { -- telescope
     'nvim-telescope/telescope.nvim',
     requires = {
 	{'nvim-lua/plenary.nvim'},
@@ -86,19 +82,19 @@ return packer.startup(function()
       }
   }
 
-  -- nvim tree
-  use {
+  use { -- nvim-tree
 		'kyazdani42/nvim-tree.lua',
 		requires = {
 			'kyazdani42/nvim-web-devicons'
 		},
-		tag = 'nightly'
+		tag = 'nightly' -- use stable release
 	}
 
-  -- other
   use 'windwp/nvim-autopairs' -- Auto parenthesis closing
   use 'lewis6991/gitsigns.nvim' -- Git indicators within file
 	use 'beauwilliams/focus.nvim' -- Split screen auto-sizing
+	use 'mhinz/vim-startify' -- start screen
+	use 'akinsho/toggleterm.nvim' -- terminal
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins

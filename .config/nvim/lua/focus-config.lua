@@ -4,4 +4,7 @@ if not status_ok then
   return
 end
 
-focus.setup()
+focus.setup({
+	excluded_filetypes = {"toggleterm"},
+	signcolumn = false,
+})
